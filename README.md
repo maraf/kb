@@ -1,4 +1,4 @@
-# A collection of my personal/hobby knowledge. mainly about running linux server
+# A collection of my personal knowledge, mainly about running linux server
 These notes mainly targets myself and their intent is to make my life with hobby linux server easier.
 
 ## Linux
