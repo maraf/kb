@@ -1,5 +1,5 @@
-# A collection of my personal knowledge, mainly about running linux server
-These notes mainly targets myself and their intent is to make my life with hobby linux server easier.
+# A collection of my personal knowledge
+These notes mainly target myself and their intent is to make my life with hobby linux server easier.
 
 ## Linux
 
