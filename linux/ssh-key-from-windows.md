@@ -1,16 +1,6 @@
 # Setup linux connection using SSH-key from Windows
 
-For this, we need OpenSSH.Client. We can check if it's installed by running this in Administrator Powershell:
-
-```
-Get-WindowsCapability -Online | ? Name -like 'OpenSSH.Client*'
-```
-
-To install it, run:
-
-```
-Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0
-```
+We will need [SSH on windows](ssh-on-windows.md).
 
 Now, to we need to generate an ssh key.
 
