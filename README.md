@@ -8,7 +8,9 @@ ASP.NET Core
 
 Kubernetes on Raspbian
 
-- [alexellis/k8s-on-raspbian [external]](https://github.com/alexellis/k8s-on-raspbian)
+- [alexellis/k8s-on-raspbian [external]](https://github.com/alexellis/k8s-on-raspbian).
+- [OpenFAAS [external]](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/).
+- [S.Hanselmann tutorial [external]](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx).
 
 SSH
 - [SSH on Windows](linux/ssh-on-windows.md)
