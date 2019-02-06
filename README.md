@@ -6,6 +6,10 @@ These notes mainly target myself and their intent is to make my life with hobby 
 ASP.NET Core
 - [Hosting ASP.NET Core application as service](linux/asp-net-core-as-service.md).
 
+Kubernetes on Raspbian
+
+- [alexellis/k8s-on-raspbian [external]](https://github.com/alexellis/k8s-on-raspbian)
+
 SSH
 - [SSH on Windows](linux/ssh-on-windows.md)
 - [Setup linux connection using SSH-key from Windows](linux/ssh-key-from-windows.md).
