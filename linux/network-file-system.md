@@ -1,6 +1,8 @@
 # Server
 To run server (or host), first install `nfs-kernel-server`.
 
+> This `nfs-kernel-server` points to the `nfs-server`.
+
 ```
 apt-get update
 apt-get install nfs-kernel-server
@@ -10,6 +12,12 @@ NFS uses RPC and sometimes (after installation) it may required the binding serv
 
 ```
 systemctl restart rpcbind
+```
+
+Or sometimes it may help to restart NFS service itself.
+
+```
+systemctl restart nfs-kernel-server
 ```
 
 To create share directory, edit `/etc/exports`.
