@@ -1,3 +1,5 @@
+# Remove File Explorer special folders
+
 Special folders are listed in the Windows Registry.
 
 ```
