@@ -22,3 +22,7 @@ SSH
 - [SSH on Windows](linux/ssh-on-windows.md)
 - [Setup linux connection using SSH-key from Windows](linux/ssh-key-from-windows.md).
 - [Setup linux connection using SSH-key from Linux [external]](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md).
+
+## Windows
+
+- [Remove File Explorer special folders](windows/remove-file-explorer-special-folders.md)
