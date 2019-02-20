@@ -23,6 +23,10 @@ SSH
 - [Setup linux connection using SSH-key from Windows](linux/ssh-key-from-windows.md).
 - [Setup linux connection using SSH-key from Linux [external]](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md).
 
+NGINX
+- [Config Pitfalls [external]](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/).
+- [Useful config templates [external]](https://github.com/lebinh/nginx-conf).
+
 ## Windows
 
 - [Remove File Explorer special folders](windows/remove-file-explorer-special-folders.md)
