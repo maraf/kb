@@ -4,6 +4,7 @@ These notes mainly target myself and their intent is to make my life with hobby 
 ## Linux
 
 - [Network File System](linux/network-file-system.md)
+- [Default user shell [external]](https://www.tecmint.com/change-a-users-default-shell-in-linux/)
 
 ASP.NET Core
 - [Hosting ASP.NET Core application as service](linux/asp-net-core-as-service.md).
