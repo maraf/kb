@@ -14,6 +14,7 @@ Kubernetes on Raspbian
 
 - [alexellis/k8s-on-raspbian [external]](https://github.com/alexellis/k8s-on-raspbian).
 - [OpenFAAS [external]](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/).
+- [OpenFAAS+Kubernetes [external]](https://blog.alexellis.io/serverless-kubernetes-on-raspberry-pi/),
 - [S.Hanselmann tutorial [external]](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx).
 
 Docker
