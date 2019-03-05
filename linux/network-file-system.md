@@ -49,6 +49,28 @@ Than you can mount the share.
 mount {host_ip}:/{host_share_path} /{client_share_path}
 ```
 
+## Troubleshooting
+
+1) Get more info from client:
+
+```
+mount -v -t ...
+```
+
+2) Get current status on server:
+
+```
+showmount -e 127.0.0.1
+```
+
+3) If RPC is not registered, shown from the above:
+
+```
+/etc/init.d/nfs-kernel-server restart
+```
+
+Maybe it will work with the `systemctl`, but I'm not sure.
+
 ## Links
 
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-16-04
