@@ -30,8 +30,10 @@ directory_to_share    client(share_option1,...,share_optionN)
 After editing, let service reload the configuration.
 
 ```
-exportfs
+systemctl restart nfs-kernel-server
 ```
+
+> Related command: `exportfs`.
 
 # Client
 To run client, first install `nfs-common`
