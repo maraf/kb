@@ -71,6 +71,12 @@ showmount -e 127.0.0.1
 
 Maybe it will work with the `systemctl`, but I'm not sure.
 
+## Error 111
+May raise when host is not running well.
+
+1) `service rpcbind restart`
+2) `/etc/init.d/nfs-kernel-server restart`
+
 ## Links
 
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-16-04
