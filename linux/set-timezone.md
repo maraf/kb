@@ -36,3 +36,9 @@ And the result is:
 ```
 0 lrwxrwxrwx 1 root root 33 Mar 13 17:54 /etc/localtime -> /usr/share/zoneinfo/Europe/Prague
 ```
+
+## CRON
+CRON doesn't use system TimeZone and you need to set it separately. One option is to edit user's crontab.
+```
+TZ=CET
+```
