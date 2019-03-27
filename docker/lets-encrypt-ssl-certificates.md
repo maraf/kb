@@ -11,4 +11,4 @@ There are some prebuilt images, but none of these doesn't work on ARM.
 3) Configure nginx to handle requests for requested domain. Use separate configuration file linked to sites-enabled.
 4) Download certbot-auto `wget https://dl.eff.org/certbot-auto`, make executable `chmod a+x certbot-auto`.
 5) Generate your certificate using `./certbot-auto --nginx certonly`
-6) Using `tar` and `scp` copy `\*.pem` from `/etc/letsencrypt/archive/{domain}`.
+6) Using `tar` and `scp` copy `*.pem` files from `/etc/letsencrypt/archive/{domain}`.
