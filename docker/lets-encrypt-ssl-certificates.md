@@ -1,6 +1,6 @@
 # Let's Encrypt SSL certificates
 
-There are some prebuilt images, but none of these doesn't work on ARM.
+There are some prebuilt images, but none of these work on ARM.
 - https://hub.docker.com/r/certbot/certbot
 - https://github.com/samoshkin/docker-letsencrypt-certgen
 
