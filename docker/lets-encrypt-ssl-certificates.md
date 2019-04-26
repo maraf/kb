@@ -12,3 +12,8 @@ There are some prebuilt images, but none of these work on ARM.
 4) Download certbot-auto `wget https://dl.eff.org/certbot-auto`, make executable `chmod a+x certbot-auto`.
 5) Generate your certificate using `./certbot-auto --nginx certonly`
 6) Using `tar` and `scp` copy `*.pem` files from `/etc/letsencrypt/archive/{domain}`.
+
+## My custom image for ARM
+
+Repo - https://github.com/maraf/certbot-arm
+Dockerfile - https://github.com/maraf/certbot-arm/blob/master/Dockerfile
