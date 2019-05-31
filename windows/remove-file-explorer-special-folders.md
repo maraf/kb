@@ -14,6 +14,8 @@ Each can be removed by removing its key.
 {0DB7E03F-FC29-4DC6-9020-FF41B59E513A}
 ```
 
+<hr>
+
 There is also a second way, desribed in https://www.thewindowsclub.com/remove-the-folders-from-this-pc-windows-10.
 
 In Windows registry, open
