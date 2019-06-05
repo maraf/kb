@@ -35,6 +35,15 @@ systemctl restart nfs-kernel-server
 
 > Related command: `exportfs`.
 
+## Reload changes to /etc/exports
+
+```
+exportfs -ra
+```
+
+-a     Export or unexport all directories.
+-r     Reexport   all   directories, synchronizing /var/lib/nfs/etab with /etc/exports and files under /etc/exports.d.
+
 # Client
 To run client, first install `nfs-common`
 
