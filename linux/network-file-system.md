@@ -41,7 +41,7 @@ systemctl restart nfs-kernel-server
 exportfs -ra
 ```
 
--a     Export or unexport all directories.
+-a     Export or unexport all directories.<br>
 -r     Reexport   all   directories, synchronizing /var/lib/nfs/etab with /etc/exports and files under /etc/exports.d.
 
 # Client
