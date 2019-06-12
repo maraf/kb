@@ -58,6 +58,18 @@ Than you can mount the share.
 mount {host_ip}:/{host_share_path} /{client_share_path}
 ```
 
+To make mounting persistent between reboots, edit file:
+
+```
+/ect/fstab
+```
+
+Than you need to reload changes in fstab:
+
+```
+mount -a
+```
+
 ## Troubleshooting
 
 1) Get more info from client:
