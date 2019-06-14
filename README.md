@@ -4,6 +4,7 @@ These notes mainly target myself and their intent is to make my life with hobby 
 ## Linux
 
 - [Initial system setup [external]](https://mattwilcox.net/web-development/setting-up-a-secure-home-web-server-with-raspberry-pi)
+- [.bashrc](linux/bashrc.md)
 - [Network File System](linux/network-file-system.md)
 - [Default user shell [external]](https://www.tecmint.com/change-a-users-default-shell-in-linux/)
 - [Set TimeZone](linux/set-timezone.md)
