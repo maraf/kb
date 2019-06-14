@@ -64,6 +64,12 @@ To make mounting persistent between reboots, edit file:
 /ect/fstab
 ```
 
+Syntax for fstab is in [SO - how-to-configure-a-nfs-mounting-in-fstab](https://askubuntu.com/questions/890981/how-to-configure-a-nfs-mounting-in-fstab/890989). For my purposes, this works:
+
+```
+{server}:{nfs_path} {local_path} nfs defaults 0 0
+```
+
 Than you need to reload changes in fstab:
 
 ```
