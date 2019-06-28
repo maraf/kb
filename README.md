@@ -31,8 +31,9 @@ SSH
 - [Setup linux connection using SSH-key from Linux [external]](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md).
 
 NGINX
-- [Config Pitfalls [external]](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
-- [Useful config templates [external]](https://github.com/lebinh/nginx-conf)
+- [Config Pitfalls [external]](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/).
+- [Useful config templates [external]](https://github.com/lebinh/nginx-conf).
+- [Parsing access log [external]](https://easyengine.io/tutorials/nginx/log-parsing/).
 
 ## Windows
 
