@@ -29,6 +29,7 @@ SSH
 - [SSH on Windows](linux/ssh-on-windows.md)
 - [Setup linux connection using SSH-key from Windows](linux/ssh-key-from-windows.md)
 - [Setup linux connection using SSH-key from Linux [external]](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md).
+- [Enable SSH on a headless Raspberry Pi](linux/ssh-headless-enable.md)
 
 NGINX
 - [Config Pitfalls [external]](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/).
