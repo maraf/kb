@@ -8,7 +8,7 @@ apt-get update
 apt-get install nfs-kernel-server
 ```
 
-NFS uses RPC and sometimes (after installation) it may required the binding service.
+NFS uses RPC and sometimes (after installation) it may require to restart the binding service.
 
 ```
 systemctl restart rpcbind
