@@ -61,7 +61,7 @@ mount {host_ip}:/{host_share_path} /{client_share_path}
 To make mounting persistent between reboots, edit file:
 
 ```
-/ect/fstab
+/etc/fstab
 ```
 
 Syntax for fstab is in [SO - how-to-configure-a-nfs-mounting-in-fstab](https://askubuntu.com/questions/890981/how-to-configure-a-nfs-mounting-in-fstab/890989). For my purposes, this works:
