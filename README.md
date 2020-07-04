@@ -9,6 +9,7 @@ These notes mainly target myself and their intent is to make my life with hobby 
 - [Default user shell [external]](https://www.tecmint.com/change-a-users-default-shell-in-linux/)
 - [Set TimeZone](linux/set-timezone.md)
 - [Samba](linux/samba.md)
+- [Create .pfx from .crt and .key](linux/pfx-from-cert.md)
 
 ASP.NET Core
 - [Hosting ASP.NET Core application as service](linux/asp-net-core-as-service.md)
