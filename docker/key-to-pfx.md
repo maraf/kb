@@ -6,8 +6,7 @@ Prepare a folder containing two files: `tls.key` and `tls.crt`.
 Than run:
 
 ```
-docker run -v {host_path}:/cert --rm -it nginx openssl pkcs12 -export -out /cert/tls.pfx -inkey /cert/tls.key -in /cert/tls.crt -certfile
- /cert/tls.crt
+docker run -v {host_path}:/cert --rm -it nginx openssl pkcs12 -export -out /cert/tls.pfx -inkey /cert/tls.key -in /cert/tls.crt -certfile /cert/tls.crt
 ```
 
 An example of `{host_path}` is `$PWD/MyCert`, a folder under current path.
