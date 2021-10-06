@@ -12,6 +12,7 @@ These notes mainly target myself and their intent is to make my life with hobby 
 - [Samba](linux/samba.md)
 - [Create .pfx from .crt and .key](linux/pfx-from-cert.md)
 - [HotPlug HDMI](linux/hotplug-hdmi.md)
+- [Terminal shortcuts](linux/terminal-shortcuts.md)
 
 ASP.NET Core
 - [Hosting ASP.NET Core application as service](linux/asp-net-core-as-service.md)
