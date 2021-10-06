@@ -1,5 +1,6 @@
 # Terminal shortcuts
 
+**D** - Close terminal (sends EOF)<br>
 **L** - Clear screen<br>
 **A** - Go to start of line<br>
 **E** - Go to end of line<br>
